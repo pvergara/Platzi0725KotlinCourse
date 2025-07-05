@@ -2,7 +2,7 @@ package class4
 
 @Suppress("UnusedVariable", "unused", "RedundantExplicitType", "VariableInitializerIsRedundant")
 fun main() {
-    val userName = "Cardie" //Immutable
+    val userName = "Cardi" //Immutable
     var userName2 = "Nihil"
     var nonReadEmails = 5
 
